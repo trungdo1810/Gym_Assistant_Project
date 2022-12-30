@@ -1,11 +1,10 @@
-# Augmented Statups YOLOv7 Pose-Estimation Tutorial
+# Statups Pose-Estimation Tutorial
 
 ## 1.	Clone the repo to your working directory using Terminal
-``` git clone  https://github.com/augmentedstartups/pose-estimation-yolov7.git ```
+``` git clone  https://github.com/trungdo1810/Gym_Assistant_Project.git ```
 
-Or 
 
-Download YOLOv7 Pose Files from Course (Includes YOLOv7 Pose Weights)
+Download YOLOv7 Pose Files (Includes YOLOv7 Pose Weights)
 
 ## 2.	Create a new Conda Environment
 
